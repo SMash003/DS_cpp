@@ -31,7 +31,6 @@ int main(){
     }
     cout << "Target: ";
     cin >> target;
-    cout << "Found at index: ";
     cout << search(arr, n, target);
     return 0;
 }
